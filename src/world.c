@@ -1,7 +1,7 @@
-// world.c
+
 #include <stdio.h>
-#include "../include/funcs.h"
+#include "funcs.h"
 
 void print_world() {
-    printf("World\n");
+    printf("The World is beautiful!\n");
 }
